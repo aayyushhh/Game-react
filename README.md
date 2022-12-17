@@ -1,10 +1,6 @@
-# MERN Stack - Ecommerce
-> Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
+# MERN Stack -GameStore
+> Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style and Payment Gateway
 
-## Demo: https://devat-ecommerce.herokuapp.com/
-
-## Author: Dev AT
-## Youtube tutorials: https://youtu.be/AjItjNc0bHA
 
 ## Install dependencies for server 
 ### `npm install`
@@ -25,12 +21,19 @@
 ## Run the React client only
 ### `npm run client`
 
-### Server runs on http://localhost:5000 and client on http://localhost:3000
 
 ### User interface 
+![image](https://user-images.githubusercontent.com/86301474/208253846-5fa28a5f-b423-46c2-8107-cd1365fc918c.png)
+![image](https://user-images.githubusercontent.com/86301474/208253855-f0c95c81-e5b2-4d01-a0fa-b1fbbff1ac90.png)
+![image](https://user-images.githubusercontent.com/86301474/208253863-740a8e45-eca3-4f82-85e5-15738e5e8386.png)
 
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568147/test/1_pe9ism.png)
+
 
 ### Admin interface 
+![image](https://user-images.githubusercontent.com/86301474/208253870-90d8bae9-752c-4ac8-8e2b-0bb82cc4c175.png)
+![image](https://user-images.githubusercontent.com/86301474/208253873-ddad44fa-d675-448a-a9fa-691065a1885a.png)
 
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568148/test/2_obw2r7.png)
+### Payment Gateway
+![image](https://user-images.githubusercontent.com/86301474/208253891-6a5a36e1-4059-40b7-aeb7-f8d27ac0884f.png)
+
+
